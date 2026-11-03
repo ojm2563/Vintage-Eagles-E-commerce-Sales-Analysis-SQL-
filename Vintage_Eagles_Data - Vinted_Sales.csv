@@ -1,0 +1,72 @@
+id,Item,Price,Units,Category,Sale_Date
+1,Vinted Harley shirt yellow,£10.00,1,harley_tshirt,08/07/2023
+2,vinted harley black,£10.00,1,harley_tshirt,08/07/2023
+3,Vinted white air forces,£14.00,1,trainers,02/09/2023
+4,Vinted black air forces,£14.00,1,trainers,31/08/2023
+5,Vinted white air forces,£13.00,1,trainers,01/09/2023
+6,Vinted black air forces,£10.00,1,trainers,07/09/2023
+7,collection Air forces,£10.00,1,trainers,18/09/2023
+8,Vinted Green Air Forces,£15.00,1,trainers,14/09/2023
+9,Vinted white air forces,£13.00,1,trainers,17/09/2023
+10,Vinted white air forces,£17.00,1,trainers,17/09/2023
+11,Vinted Grey Air Forces,£13.00,1,trainers,19/09/2023
+12,Vinted white air forces,£4.00,1,trainers,19/09/2023
+13,vinted harley jeans,£6.00,1,harley_jeans,20/09/2023
+14,Vinted white air forces,£13.00,1,trainers,23/09/2023
+15,collection Air forces,£20.00,1,trainers,27/09/2023
+16,Vinted black air forces,£16.00,1,trainers,06/10/2023
+17,Vinted Harley Jeans,£6.00,1,harley_jeans,07/10/2023
+18,Vinted white air forces,£15.00,1,trainers,23/11/2023
+19,Vinted Air forces,£8.50,1,trainers,19/12/2023
+20,Vinted Air forces,£12.00,1,trainers,21/12/2023
+21,Vinted Air forces,£6.00,1,trainers,22/12/2023
+22,Vinted Air forces,£15.00,1,trainers,27/12/2023
+23,Vinted Air forces,£10.00,1,trainers,29/12/2023
+24,Vinted Air Forces,£9.00,1,trainers,03/01/2024
+25,Vinted Air forces,£12.00,1,trainers,04/01/2024
+26,Vinted Air forces,£5.00,1,trainers,22/01/2024
+27,Vinted Air forces,£8.00,1,trainers,27/01/2024
+28,Vinted air forces,£11.49,1,trainers,08/03/2024
+29,Vinted dickies,£6.00,1,dickies_trousers,28/08/2024
+30,Vinted levis,£6.00,1,levis,27/08/2024
+31,Vinted levis,£6.00,1,levis,27/08/2024
+32,levis,£4.17,3,levis,01/09/2024
+33,levis,£4.00,1,levis,28/08/2024
+34,quiksilver t shirt,£16.00,1,other,16/09/2024
+35,levis,£8.00,1,levis,19/09/2024
+36,quiksilver t shirt,£11.00,1,other,21/09/2024
+37,carhartts,£30.00,1,carhartt_trousers,27/01/2025
+38,harley t shirt blue,£15.00,1,harley_tshirt,25/01/2025
+39,harley hoodie womens,£12.00,1,harley_sweat,11/02/2025
+40,harley t shirt black,£10.00,1,harley_tshirt,13/02/2025
+41,harley womens hoodie,£12.00,1,harley_sweat,12/02/2025
+42,harley jeans,£13.00,1,harley_jeans,16/02/2025
+43,dickies,£7.00,1,dickies_trousers,17/02/2025
+44,levis,£17.50,1,levis,22/02/2025
+45,harley jeans,£8.50,1,harley_jeans,22/02/2025
+46,harley shirt,£12.00,1,harley_shirt,07/03/2025
+47,harley shirt,£4.00,1,harley_shirt,25/02/2025
+48,harley t shirt,£13.00,1,harley_tshirt,06/03/2025
+49,harley t shirt,£10.00,1,harley_tshirt,06/03/2025
+50,harley t shirt,£10.00,1,harley_tshirt,06/03/2025
+51,harley t shirt,£10.00,1,harley_tshirt,07/03/2025
+52,harley t shirt,£10.00,1,harley_tshirt,10/03/2025
+53,harley shirt,£12.00,1,harley_shirt,13/03/2025
+54,dickies,£14.00,1,dickies_trousers,19/03/2025
+55,harley t shirt,£11.00,1,harley_tshirt,28/03/2025
+56,harley shirt,£14.00,1,harley_shirt,28/03/2025
+57,harley t shirt,£7.00,1,harley_tshirt,29/03/2025
+58,dickies,£4.00,1,dickies_trousers,31/03/2025
+59,harley t shirt,£9.00,1,harley_tshirt,01/04/2025
+60,harley t shirt,£36.12,7,harley_tshirt,12/04/2025
+61,harley shirts,£10.32,2,harley_shirt,12/04/2025
+62,harley hoodie womens,£5.16,1,harley_sweat,12/04/2025
+63,dickies,£15.48,3,dickies_trousers,12/04/2025
+64,harley t shirt,£15.00,1,harley_tshirt,16/04/2025
+65,dickies,£2.00,1,dickies_trousers,16/04/2025
+66,harley t shirt,£5.00,1,harley_tshirt,19/04/2025
+67,carhartts,£26.00,1,carhartt_trousers,24/04/2025
+68,carhartts,£25.50,1,carhartt_trousers,24/04/2025
+69,dickies,£4.00,1,dickies_trousers,22/05/2025
+70,harley jeans,£4.00,1,harley_jeans,22/05/2025
+71,harley t shirt,£5.00,1,harley_tshirt,26/05/2025
